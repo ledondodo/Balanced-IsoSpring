@@ -3,7 +3,7 @@ Balanced IsoSpring is a 2 DOF balanced oscillator implemented with flexure mecha
 
 
 ## References
-*Conception des guidages flexibles, Simon Henein* : [link](https://www.epflpress.org/product/666/9782889143368/conception-des-guidages-flexibles)
+*Conception des guidages flexibles, Simon Henein* ([link](https://www.epflpress.org/product/666/9782889143368/conception-des-guidages-flexibles))
 
 ## License
 [MIT License](LICENSE)
