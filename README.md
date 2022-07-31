@@ -15,7 +15,7 @@ The final project is presented in its integrality in the file [Balanced-IsoSprin
 
 Many results presented in the project were calculated using Matlab. The different scripts can be found in the directory [matlab](matlab).  
 - [KEQ](matlab/KEQ.m) computes the equivalent-spring constant of the oscillating mechanism.
-- [Plot2D](matlab/Plot2D.m) and [Plot3D](matlab/Plot3D.m) plot the equivalent-spring constant considering the buckling depending on the position of the oscillation. This assumption makes the spring non-isotropic, which is discussed in the report. We can observe the variation of KEQ following one or two axis (2D or 3D plot), and the gradient feature which is not presented in the project but helped us to interprete the plots.
+- [Plot2D](matlab/Plot2D.m) and [Plot3D](matlab/Plot3D.m) plot the equivalent-spring constant considering the buckling depending on the position of the oscillation. This assumption makes the spring non-isotropic, which is discussed in the report. We can observe the variation of KEQ following one or two axis (2D or 3D plot), and the gradient feature which is not presented in the project but helped us to interpret the plots.
 - [Fleche lame coin](matlab/fleche_lame_coin.m) computes and plots the maximum flexion curve of the massive wheels.
 - [Projet tab](matlab/projet_tab.m) computes many variables depending on dimensional parameters and more.
 
