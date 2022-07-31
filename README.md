@@ -4,7 +4,7 @@ Balanced IsoSpring is a 2 DOF balanced oscillator implemented with flexure mecha
 <p align="center">
   <img src="img/isospring-all.jpeg" style="margin:auto; width:200px;display:block">
   &nbsp; &nbsp; &nbsp;
-  <img src="img/isospring-montage.jpeg" width=40% height=40% margin="auto">
+  <img src="img/isospring-montage.jpeg" style="margin:auto; width:200px;display:block">
 </p>
 
 ## Project
