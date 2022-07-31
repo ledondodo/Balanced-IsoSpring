@@ -1,5 +1,5 @@
 # Balanced-IsoSpring
-Balanced IsoSpring is a 2 DOF balanced oscillator implemented with flexure mechanisms. This project is dedicated to improve the actual mechanical watches with a new technology. We realized this work in Simon Henein's class.
+Balanced IsoSpring is a 2 DOF balanced oscillator implemented with flexure mechanisms. This project is dedicated to improve the actual mechanical watches with a new technology. We worked on this project in Simon Henein's class.
 
 <p align="center">
   <img src="img/isospring-all.jpeg" width=40% height=40%>
