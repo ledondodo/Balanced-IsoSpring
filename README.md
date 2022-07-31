@@ -11,8 +11,13 @@ Nb: Due to a discussion with the teacher following the deadline of the boards, w
 
 The final project is presented in its integrality in the file [Balanced-IsoSpring](Balanced-IsoSpring.pdf). We used CATIA to draw the technical schemes, based on the 3D design of the full mechanism we made in the software. The [full design file](IsoSpring-CATIA.stp) can be downloaded and extracted with CATIA V5 6R2018.
 
+Many results presented in the project were calculated using Matlab. The different scripts can be find in the directory [matlab](matlab).  
+- [KEQ](matlab/KEQ.m) calculs the equivalent-spring constant of the oscillating mechanism.
+- [Plot2D](matlab/Plot2D.m) and [Plot3D](matlab/Plot3D.m) plot the equivalent-spring constant considering the buckling depending on the position of the oscilation. This assumption makes the spring non-isopic, which is discussed in the report. We can observe the variation of KEQ following one or two axis (2D or 3D plot), and the gradient feature.
+- [Fleche lame coin](matlab/fleche_lame_coin.m) calculs and plots the maximum flexion curve of the massive wheels.
+
 ## References
-*Conception des guidages flexibles, Simon Henein* ([link](https://www.epflpress.org/product/666/9782889143368/conception-des-guidages-flexibles)) : [extract](SimonHenein-extract.pdf)
+*Conception des guidages flexibles, Simon Henein* ([link](https://www.epflpress.org/product/666/9782889143368/conception-des-guidages-flexibles)): [extract](SimonHenein-extract.pdf)
 
 ## License
 [MIT License](LICENSE)
