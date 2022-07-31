@@ -3,6 +3,7 @@ Balanced IsoSpring is a 2 DOF balanced oscillator implemented with flexure mecha
 
 <p align="center">
   <img src="img/isospring-all.jpeg" width=40% height=40%>
+  <img src="img/isospring-montage.jpeg" width=40% height=40%>
 </p>
 
 ## Project
@@ -13,8 +14,9 @@ The final project is presented in its integrality in the file [Balanced-IsoSprin
 
 Many results presented in the project were calculated using Matlab. The different scripts can be find in the directory [matlab](matlab).  
 - [KEQ](matlab/KEQ.m) calculs the equivalent-spring constant of the oscillating mechanism.
-- [Plot2D](matlab/Plot2D.m) and [Plot3D](matlab/Plot3D.m) plot the equivalent-spring constant considering the buckling depending on the position of the oscilation. This assumption makes the spring non-isopic, which is discussed in the report. We can observe the variation of KEQ following one or two axis (2D or 3D plot), and the gradient feature.
+- [Plot2D](matlab/Plot2D.m) and [Plot3D](matlab/Plot3D.m) plot the equivalent-spring constant considering the buckling depending on the position of the oscilation. This assumption makes the spring non-isopic, which is discussed in the report. We can observe the variation of KEQ following one or two axis (2D or 3D plot), and the gradient feature which is not presented in the project but helped us to interpret the plot.
 - [Fleche lame coin](matlab/fleche_lame_coin.m) calculs and plots the maximum flexion curve of the massive wheels.
+- [Projet tab](matlab/projet_tab.m) calculs many variables depending on dimensional parameters and more.
 
 ## References
 *Conception des guidages flexibles, Simon Henein* ([link](https://www.epflpress.org/product/666/9782889143368/conception-des-guidages-flexibles)): [extract](SimonHenein-extract.pdf)
