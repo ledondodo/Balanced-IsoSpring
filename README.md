@@ -22,5 +22,8 @@ Many results presented in the project were calculated using Matlab. The differen
 ## References
 *Conception des guidages flexibles, Simon Henein* ([link](https://www.epflpress.org/product/666/9782889143368/conception-des-guidages-flexibles)): [extract](SimonHenein-extract.pdf)
 
+## Collaborators
+I worked on this project with [B3NITAL](https://github.com/B3NITAL) and 3 other classmates.
+
 ## License
 [MIT License](LICENSE)
